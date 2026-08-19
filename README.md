@@ -11,84 +11,55 @@
   <a href="https://github.com/siddharthbroo?tab=followers">
     <img src="https://img.shields.io/github/followers/siddharthbroo?label=Followers&style=flat" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/siddharthbroo?tab=repositories">
-    <img src="https://img.shields.io/github/stars/siddharthbroo?label=Stars&style=flat" alt="GitHub Stars" />
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20System%20Design-0e75b6?style=flat" alt="Backend and System Design" />
-  <img src="https://img.shields.io/badge/Learning-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+  <a href="https://github.com/siddharthbroo">
+    <img src="https://img.shields.io/github/last-commit/siddharthbroo/siddharthbroo?style=flat" alt="Last Commit" />
+  </a>
+  <a href="https://github.com/siddharthbroo?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20System%20Design-0e75b6?style=flat" alt="Backend Focus" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech student specializing in **Electronics & Communication Engineering**
-- 💻 Full Stack Developer focused on building **scalable backend systems**
-- 🚀 Currently building **[CivicSense](https://github.com/siddharthbroo/CivicSense)**
-- 🌱 Currently learning **Spring Boot, Advanced Backend & System Design**
-- 🧠 Interested in **REST APIs, Authentication, Databases, Distributed Systems & Backend Architecture**
-- 🤝 Open to collaborating on meaningful software projects
-- 💬 Ask me about **Java, Spring Boot, Node.js, Express.js, React, REST APIs & Databases**
-- 📫 **[siddharthsingh8899@gmail.com](mailto:siddharthsingh8899@gmail.com)**
+* 🎓 B.Tech student specializing in **Electronics & Communication Engineering**
+* 💻 Full Stack Developer focused on building **scalable backend systems**
+* 🚀 Currently building **[CivicSense](https://github.com/siddharthbroo/CivicSense)**
+* 🌱 Currently learning **Spring Boot, Advanced Backend & System Design**
+* 🧠 Interested in **REST APIs, Authentication, Databases, Distributed Systems & Backend Architecture**
+* 🤝 Open to collaborating on meaningful software projects
+* 💬 Ask me about **Java, Spring Boot, Node.js, Express.js, React, REST APIs & Databases**
+* 📫 **[siddharthsingh8899@gmail.com](mailto:siddharthsingh8899@gmail.com)**
 
 ---
 
 ## 🚀 What I'm Working On
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🏙️ CivicSense
 
 **AI-Powered Smart Civic Complaint Management & Zone Intelligence Platform**
 
-A platform designed to help citizens report civic issues while enabling intelligent complaint management, verification and zone-level analysis.
+> Building a system that helps citizens report civic issues and enables intelligent complaint management, verification and zone-level analysis.
 
-**Tech Stack**
-
-`Java` `Spring Boot` `PostgreSQL` `REST APIs` `AI`
-
-<br>
-
-<a href="https://github.com/siddharthbroo/CivicSense">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CivicSense"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+🔗 **[View CivicSense →](https://github.com/siddharthbroo/CivicSense)**
 
 ### 🎬 ReelBite
 
-**Food Discovery Platform**
+**Food Discovery Platform inspired by short-form video experiences**
 
-A food discovery platform inspired by short-form video experiences, focused on modern full-stack architecture and user-focused product design.
+> Exploring modern full-stack architecture, API development and user-focused product design.
 
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB`
-
-<br>
-
-<a href="https://github.com/siddharthbroo/Zomato-Reels-application">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ReelBite"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+🔗 **[View ReelBite →](https://github.com/siddharthbroo/Zomato-Reels-application)**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
@@ -98,7 +69,7 @@ A food discovery platform inspired by short-form video experiences, focused on m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot"/>
@@ -106,7 +77,7 @@ A food discovery platform inspired by short-form video experiences, focused on m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" alt="Express.js"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React"/>
@@ -115,7 +86,7 @@ A food discovery platform inspired by short-form video experiences, focused on m
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind CSS"/>
 </p>
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"/>
@@ -133,43 +104,33 @@ A food discovery platform inspired by short-form video experiences, focused on m
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### 🏙️ CivicSense
 
-<h3>🏙️ CivicSense</h3>
-
-<p>
 AI-powered civic complaint management and zone intelligence platform.
-</p>
 
-<p>
-<b>Java • Spring Boot • PostgreSQL • REST APIs • AI</b>
-</p>
+**Tech:** Java • Spring Boot • PostgreSQL • REST APIs • AI
 
 <a href="https://github.com/siddharthbroo/CivicSense">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CivicSense Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthbroo&repo=CivicSense&theme=tokyonight&hide_border=true" />
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-<h3>🎬 ReelBite</h3>
+### 🎬 ReelBite
 
-<p>
-Food discovery platform inspired by short-form video experiences.
-</p>
+A food discovery platform inspired by short-form video experiences.
 
-<p>
-<b>React • Node.js • Express.js • MongoDB</b>
-</p>
+**Tech:** React • Node.js • Express.js • MongoDB
 
 <a href="https://github.com/siddharthbroo/Zomato-Reels-application">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ReelBite Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthbroo&repo=Zomato-Reels-application&theme=tokyonight&hide_border=true" />
 </a>
 
 </td>
-
 </tr>
 </table>
 
@@ -178,10 +139,7 @@ Food discovery platform inspired by short-form video experiences.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="./profile/trophy.svg"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=siddharthbroo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -189,55 +147,12 @@ Food discovery platform inspired by short-form video experiences.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
-    width="48%"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    width="48%"
-    alt="Repositories Per Language"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=siddharthbroo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Siddharth's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthbroo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
-    width="48%"
-    alt="Most Commit Language"
-  />
-
-  <img
-    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
-    width="48%"
-    alt="Productive Time"
-  />
-</p>
-
----
-
-# 📈 Contribution Overview
-
-<p align="center">
-  <img
-    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-    width="100%"
-    alt="GitHub Contribution Overview"
-  />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="./profile/streak.svg"
-    width="70%"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=siddharthbroo&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -245,11 +160,31 @@ Food discovery platform inspired by short-form video experiences.
 # 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthbroo&theme=tokyo-night&hide_border=true&area=true&custom_title=Siddharth%27s%20Contribution%20Activity"
-    width="100%"
-    alt="Siddharth's Contribution Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthbroo&theme=tokyo-night&hide_border=true&area=true&custom_title=Siddharth's%20Contribution%20Activity" alt="GitHub Contribution Activity Graph" />
+</p>
+
+---
+
+# 💻 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/siddharthbroo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthbroo" alt="Contribution Graph" />
+  </a>
+</p>
+
+---
+
+# 🔥 GitHub Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/github/repos/siddharthbroo?style=for-the-badge&label=Repositories" alt="Repositories"/>
+
+<img src="https://img.shields.io/github/stars/siddharthbroo?style=for-the-badge&label=Total%20Stars" alt="Stars"/>
+
+<img src="https://img.shields.io/github/followers/siddharthbroo?style=for-the-badge&label=Followers" alt="Followers"/>
+
 </p>
 
 ---
@@ -259,39 +194,19 @@ Food discovery platform inspired by short-form video experiences.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/siddharth-singh-037829257/">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    width="45"
-    height="45"
-    alt="LinkedIn"
-  />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45" alt="LinkedIn"/>
 </a>
 
 <a href="https://leetcode.com/u/siddharthbro/">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-    width="45"
-    height="45"
-    alt="LeetCode"
-  />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="45" alt="LeetCode"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/siddharths7go0">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-    width="45"
-    height="45"
-    alt="GeeksforGeeks"
-  />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="45" height="45" alt="GeeksforGeeks"/>
 </a>
 
 <a href="mailto:siddharthsingh8899@gmail.com">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-    width="45"
-    height="45"
-    alt="Email"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Email"/>
 </a>
 
 </p>
@@ -303,9 +218,5 @@ Food discovery platform inspired by short-form video experiences.
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"
-    alt="Footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
-```

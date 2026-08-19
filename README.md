@@ -8,9 +8,11 @@
   <a href="https://github.com/siddharthbroo">
     <img src="https://komarev.com/ghpvc/?username=siddharthbroo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
+
   <a href="https://github.com/siddharthbroo?tab=followers">
     <img src="https://img.shields.io/github/followers/siddharthbroo?label=Followers&style=flat" alt="GitHub Followers" />
   </a>
+
   <a href="https://github.com/siddharthbroo?tab=repositories">
     <img src="https://img.shields.io/github/stars/siddharthbroo?label=Stars&style=flat" alt="GitHub Stars" />
   </a>
@@ -40,6 +42,7 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏙️ CivicSense
@@ -79,6 +82,7 @@ A food discovery platform inspired by short-form video experiences, focused on m
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -177,7 +181,7 @@ Food discovery platform inspired by short-form video experiences.
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=siddharthbroo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
+    src="./profile/trophy.svg"
     alt="GitHub Trophies"
   />
 </p>
@@ -188,15 +192,41 @@ Food discovery platform inspired by short-form video experiences.
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=siddharthbroo&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="Siddharth's GitHub Stats"
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    alt="GitHub Stats"
+    width="49%"
   />
 
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthbroo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-    alt="Siddharth's Top Languages"
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Repositories Per Language"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Most Commit Language"
+    width="49%"
+  />
+
+  <img
+    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+    alt="Productive Time"
+    width="49%"
+  />
+</p>
+
+---
+
+# 📈 Contribution Overview
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="GitHub Contribution Overview"
+    width="100%"
   />
 </p>
 
@@ -206,8 +236,9 @@ Food discovery platform inspired by short-form video experiences.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=siddharthbroo&theme=tokyonight&hide_border=true"
-    alt="Siddharth's GitHub Contribution Streak"
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Streak"
+    width="70%"
   />
 </p>
 
@@ -220,19 +251,6 @@ Food discovery platform inspired by short-form video experiences.
     src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthbroo&theme=tokyo-night&hide_border=true&area=true&custom_title=Siddharth's%20Contribution%20Activity"
     alt="Siddharth's Contribution Activity Graph"
   />
-</p>
-
----
-
-# 📈 GitHub Overview
-
-<p align="center">
-  <a href="https://github.com/siddharthbroo">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=siddharthbroo&show_icons=true&hide_border=true&theme=tokyonight&hide_title=false"
-      alt="GitHub Overview"
-    />
-  </a>
 </p>
 
 ---

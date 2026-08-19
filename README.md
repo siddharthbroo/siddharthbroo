@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 
 <h3 align="center">

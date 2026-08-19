@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 
 <h3 align="center">
@@ -8,11 +9,9 @@
   <a href="https://github.com/siddharthbroo">
     <img src="https://komarev.com/ghpvc/?username=siddharthbroo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-
   <a href="https://github.com/siddharthbroo?tab=followers">
     <img src="https://img.shields.io/github/followers/siddharthbroo?label=Followers&style=flat" alt="GitHub Followers" />
   </a>
-
   <a href="https://github.com/siddharthbroo?tab=repositories">
     <img src="https://img.shields.io/github/stars/siddharthbroo?label=Stars&style=flat" alt="GitHub Stars" />
   </a>
@@ -20,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20System%20Design-0e75b6?style=flat" alt="Backend and System Design" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Learning-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
 </p>
 
 ---
@@ -58,7 +57,7 @@ A platform designed to help citizens report civic issues while enabling intellig
 <br>
 
 <a href="https://github.com/siddharthbroo/CivicSense">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CivicSense" />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View CivicSense"/>
 </a>
 
 </td>
@@ -78,7 +77,7 @@ A food discovery platform inspired by short-form video experiences, focused on m
 <br>
 
 <a href="https://github.com/siddharthbroo/Zomato-Reels-application">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ReelBite" />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ReelBite"/>
 </a>
 
 </td>
@@ -149,7 +148,7 @@ AI-powered civic complaint management and zone intelligence platform.
 </p>
 
 <a href="https://github.com/siddharthbroo/CivicSense">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CivicSense Repository"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CivicSense Repository"/>
 </a>
 
 </td>
@@ -167,7 +166,7 @@ Food discovery platform inspired by short-form video experiences.
 </p>
 
 <a href="https://github.com/siddharthbroo/Zomato-Reels-application">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ReelBite Repository"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ReelBite Repository"/>
 </a>
 
 </td>
@@ -193,28 +192,28 @@ Food discovery platform inspired by short-form video experiences.
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/3-stats.svg"
+    width="48%"
     alt="GitHub Stats"
-    width="49%"
   />
 
   <img
     src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    width="48%"
     alt="Repositories Per Language"
-    width="49%"
   />
 </p>
 
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    width="48%"
     alt="Most Commit Language"
-    width="49%"
   />
 
   <img
     src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+    width="48%"
     alt="Productive Time"
-    width="49%"
   />
 </p>
 
@@ -225,8 +224,8 @@ Food discovery platform inspired by short-form video experiences.
 <p align="center">
   <img
     src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-    alt="GitHub Contribution Overview"
     width="100%"
+    alt="GitHub Contribution Overview"
   />
 </p>
 
@@ -237,8 +236,8 @@ Food discovery platform inspired by short-form video experiences.
 <p align="center">
   <img
     src="./profile/streak.svg"
-    alt="GitHub Contribution Streak"
     width="70%"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
@@ -248,7 +247,8 @@ Food discovery platform inspired by short-form video experiences.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthbroo&theme=tokyo-night&hide_border=true&area=true&custom_title=Siddharth's%20Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthbroo&theme=tokyo-night&hide_border=true&area=true&custom_title=Siddharth%27s%20Contribution%20Activity"
+    width="100%"
     alt="Siddharth's Contribution Activity Graph"
   />
 </p>
@@ -309,3 +309,4 @@ Food discovery platform inspired by short-form video experiences.
     alt="Footer"
   />
 </p>
+```

@@ -103,6 +103,10 @@ A food discovery platform inspired by short-form video experiences, focused on m
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 # 📌 Featured Projects
 
 <table align="center" width="100%">
